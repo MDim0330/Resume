@@ -1,0 +1,106 @@
+
+{Matthew Dim}
+{Computer Science}
+        \email{matthewdim30@gmail.com}\smallskip
+        \phone{(571) 455-6075}
+        \location{Reston, Virginia}\\
+        \linkedin{MDim0330}
+        \github{MDim0330}
+
+       ----- STRENGTHS -----
+        \{Skills}
+            \{Java}
+            {C/C++}
+            \{Python}
+            \{CSS/HTML}
+            \{Ruby}
+            \{Vim}
+            \{MatLab}
+            \{Solidworks}
+            \c{Microsoft Office}
+        
+        % ----- Knowledge -----
+        \{Strengths}
+            \{Artificial Intelligence}
+
+            \{Machine Learning}
+            
+            \{Computer Systems}
+            
+            \{Data Structures}
+            
+            \{Advanced Algorithms}
+            \{Calculus}
+            \{Lin Algebra}
+            \{Differential Equations}
+            \{Discrete Structures}
+            
+            \{Robotics}
+            \{Chemistry}
+            \{Engineering Design}
+
+        \{Hobbies}
+            \{itemize}
+                \Debate Team
+                    \Wyoming Tournament Novice Champion
+                    \Rutgers 3rd Place Speaker Award
+                \Cycling
+                    \Century (100 mile race)
+
+        % ----- REFERENCES -----
+        \{References}
+            References provided upon inquiry
+        % ----- REFERENCES -----
+        
+        \parskip 12pt
+        %------  QR Code   -----
+        \includegraphics[scale=0.4]{frame.png}
+        %------  QR Code   -----
+        
+        
+        % ----- ABOUT ME -----
+        \{About Me}
+                Enthusiastic Computer Science Student eager to contribute to a technology related project. Motivated to learn, grow and excel in a hardware or software related industry.
+        % ----- ABOUT ME -----
+        
+        % ----- EXPERIENCE -----
+        \{Experience}
+            \{Software Engineer Intern }{| Sedna Digital Solutions}{06/2022 -- 01/2023}{Manassas, Virginia}
+                \Created tools for the conversion of C library into
+                other programming languages using WSDL and Protobuf
+                \Facilitated integration of Java tools with C programs using reflections
+        % ----- EXPERIENCE -----
+        
+        % ----- EDUCATION -----
+        \{Education}
+            \{Bachelor of Science: Computer Science }{| James Madison University}{2019 -- 2023}{Harrisonburg, Virginia}
+                \GPA: 3.56
+                \Minor in Mathematics
+                \Minor in Robotics
+
+
+            \{Master of Science: Computer Engineering }{| Virginia Tech}{2023 -- Current}{Virginia}
+        
+        % ----- EDUCATION -----
+        
+        % ----- RESEARCH -----
+        \{Research}
+            \{Autonomous Vehicle - JACart }{\cvrepo{| \faGithub}{https://github.com/JACart}\cvrepo{| \faGlobe}{https://av.cise.jmu.edu/}}{01/2022 -- 05/2023}{}
+                \Paid Research Assistant - Robotics Operating System (ROS) Team Lead
+               			 \Goals: Improve upon the collision avoidance of the vehicle
+                              \Integrated ZED cameras with LiDAR sensor for collision avoidance
+                              \Pose tracking with machine learning for passenger safety detection
+            % ----- PROJECTS -----
+            
+        \{Projects}            
+            \Buoy Project}{\cvrepo{| \faGithub}{https://github.com/jforsyth/JMU-NG-Buoy}\cvrepo{| \faGlobe}{https://www.hometownnewsbrevard.com/news/students-zoo-partner-in-effort-to-track-sea-turtles/article_813c1eb4-d444-11eb-bb87-5f7f273b6f/}}{08/2020 -- 05/2021}{}
+                \Advised by Northrop Grumann
+                \Communication Team Member
+                		\Worked on integrating Raspberry Pi, Lowra, and Sensors
+               			 \System achieved autonomous state
+                                    
+            \cvevent{FitBit Project - Step Counter }{\cvrepo{| \faGitlab}{https://gitlab.com/user/repo}\cvrepo{| \faGlobe}{https://repo-demo.com/}}{09/2021 -- Current}{}
+                \Using micro-processor, acceleration sensor, and radio integrated system using a self-developed foot-step algorithm
+                \Accurate up to 5 percent currently
+            
+        % ----- PROJECTS -----
